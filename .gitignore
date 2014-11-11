@@ -1,0 +1,35 @@
+# hidden/temp files
+._*
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+# dir
+build/
+docs/
+bin/
+
+# Executables
+*.app
+*.exe
+*.out
+
+# Some general ignore patterns
+obj/
+*.o
+Debug*/
+Release*/
+*.mode*
+*.pyc
+.svn/
+
+# XCode
+*.pbxuser
+*.perspective
+*.perspectivev3
+*.mode1v3
+*.mode2v3
+project.xcworkspace
+xcuserdata
+xcuserdata/
+*.xcworkspace
